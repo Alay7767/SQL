@@ -1,1 +1,4 @@
 # SQL
+# SQL Practice Queries
+
+This repository contains a collection of SQL queries that I am currently practicing as part of my learning journey in databases. The queries are written in standard SQL, with some examples tailored for systems such as MySQL, and SQL Server. The goal of this repository is not to present a complete project but rather to serve as a practice space where I explore different concepts including basic SELECT statements, filtering, aggregations, joins, subqueries, and advanced topics like common table expressions and window functions. By keeping these examples organized, I can track my progress over time and build a reference library of queries that demonstrate my growing skills in database management and SQL programming.
